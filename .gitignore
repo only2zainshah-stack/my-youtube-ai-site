@@ -1,1 +1,4 @@
 server/credentials.json
+node_modules/
+downloads/audio/
+.DS_Store
